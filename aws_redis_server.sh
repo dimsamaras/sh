@@ -1,4 +1,5 @@
 #!/bin/sh
+# https://github.com/saxenap/install-redis-amazon-linux-centos
 # From - http://www.codingsteps.com/install-redis-2-6-on-amazon-ec2-linux-ami-or-centos/
 # 
 # redis - this script starts and stops the redis-server daemon
